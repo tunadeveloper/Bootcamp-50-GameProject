@@ -56,7 +56,9 @@
 
 - **Backlog düzeni ve Sahne seçimi**: Backlog'umuz ilk yapılacak sahneye göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
-- **Daily Scrum**: Daily Scrum toplantılarımız Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:(https://github.com/Yerlikaya81/Bootcamp-50-GameProject/assets/153125470/9c9f63fd-3e40-4bb8-97e0-e8f320d10a13)
+- **Daily Scrum**: Daily Scrum toplantılarımız Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+![image](https://github.com/Yerlikaya81/Bootcamp-50-GameProject/assets/153125470/fc7fd6b9-2021-45dd-a3f2-c11964523158)
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
