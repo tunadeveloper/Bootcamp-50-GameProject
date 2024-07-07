@@ -1,6 +1,7 @@
 # **Takım İsmi**
 
 50'S Game Work
+
 ![WhatsApp Image 2024-06-28 at 12 20 36](https://github.com/Yerlikaya81/Bootcamp-50-GameProject/assets/153125470/d7101041-a381-4b5d-80bf-aa3fbb8e905b)
 
 # Ürün İle İlgili Bilgiler
@@ -47,17 +48,16 @@
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Oyunun başlangıç sahnesi oluşturuldu. Işıklandırmalar ve mekan tasarımı yapıldı. Oyunun parkur aşaması 2.Sprint ile birlikte başlayacak
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Sahne seçimi**: Backlog'umuz ilk yapılacak sahneye göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- **Daily Scrum**: Daily Scrum toplantılarımız Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:(https://github.com/Yerlikaya81/Bootcamp-50-GameProject/assets/153125470/9c9f63fd-3e40-4bb8-97e0-e8f320d10a13)
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/tunadeveloper/Bootcamp-50-GameProject/assets/153125470/338b5bcf-5a02-428f-a632-b728e8b3b76a)
