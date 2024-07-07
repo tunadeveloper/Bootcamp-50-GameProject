@@ -1,6 +1,7 @@
 # **Takım İsmi**
 
 50'S Game Work
+![WhatsApp Image 2024-06-28 at 12 20 36](https://github.com/Yerlikaya81/Bootcamp-50-GameProject/assets/153125470/d7101041-a381-4b5d-80bf-aa3fbb8e905b)
 
 # Ürün İle İlgili Bilgiler
 
