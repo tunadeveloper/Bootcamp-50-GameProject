@@ -70,16 +70,27 @@
 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+
+Alınan kararlar:
+
+-İlk sprint boyunca oyunun başlangıç sahnesi oluşturuldu, gerekli ışıklandırmalar ve mekan tasarımı tamamlandı. Parkur aşaması ise 2. Sprint ile birlikte başlaması planlanmaktadır.
+
+-Çıkan ürünün çalışmasında ve testlerinde herhangi bir sorun görülmemiştir. Ekstra eklenebilecek özellikler belirlenmiş ve backlog'a eklenmiştir.
+
+-Sprint Review katılımcıları: Tunahan Cengiz (Product Owner), Turgay Yerlikaya (Scrum Master), Tuba Peker, Vuslat Çetinkaya, Veli Kaan Akan (Team Members/Developers).
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+
+-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır. Bazı görevlerdeki zaman tahminlerinin gözden geçirilmesi ve geliştiricilerin sprint planlama toplantılarında daha detaylı geri bildirimler vermesi için bir süreç oluşturulacaktır.
+
+-Oyun çıktısı alınarak performans testi yapıldı.
+
+-Takımın sürekli gelişimini ve ürün kalitesini fayda sağlayacağı düşünülerek, Her sprint sonrası değerlendirme toplantıları yapılacak.
 
 -**Diğer Notlar**:
-- N/A
-
+- Ürün logosu yapılacak
+- Ürün için gerekli seslendirmeler yapılacak
+- Oyun içi atmosferin daha iyi yansıtılması için sahne ışıkları yeniden düzenlenebilir, üzerine konuşulacak.
 ---
 
 # Sprint 2
