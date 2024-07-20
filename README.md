@@ -94,7 +94,57 @@ Alınan kararlar:
 ---
 
 # Sprint 2
+- **Sprint Notları**: Hazırlanan level design dosyası kullanılarak seviye tasarımı yapıldı.
+- Parkura uygun engeller eklendi
+- Level 2 için taslak oluşturuldu
+- Portal noktası belirlendi
+- Profesör ve örümcek karakteri eklendi
+- Objelerin boyutlandırılması bitirilecek
+- Ses müzik kullanılacak mı karar verilecek
+  
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Sahne seçimi**: Backlog'umuz ilk yapılacak sahneye göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
+
+- **Daily Scrum**: Daily Scrum toplantılarımız Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+![image](https://github.com/user-attachments/assets/f87f4106-296a-4a6a-9b36-9e3d568546a5)
+
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![image](https://github.com/user-attachments/assets/5ef6da78-b8a0-4db9-9134-a299642337b0)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/user-attachments/assets/2bcf80d7-c696-4646-a360-623b37b6296f)
+
+![image](https://github.com/user-attachments/assets/7c50681f-148d-4e4c-bb48-afd1343a24b1)
+
+![image](https://github.com/user-attachments/assets/7c57123c-8883-434e-8d83-324d42543459)
+
+
+- **Sprint Review**: 
+
+Alınan kararlar:
+
+-Seviye tasarımı yapıldı, uygun engeller oluşturuldu.
+
+-Yeni karakterler oyuna eklendi. Profesör ve örümcek.
+
+-Sprint Review katılımcıları: Tunahan Cengiz (Product Owner), Turgay Yerlikaya (Scrum Master), Tuba Peker, Vuslat Çetinkaya, Veli Kaan Akan (Team Members/Developers).
+
+- **Sprint Retrospective:**
+
+-3 günde bir takım olarak toplanıp fikir alışverişi yapılmaktadır.
+
+-İlerleme kaydettiğimiz noktaları daha da geliştirebilir miyiz bunun üzerine konuşmalar gerçekleştirildi ve devam edecek.
+
+-**Diğer Notlar**:
+- Ürün logosu yapılacak
+- Ürün için ses ve müzik kullanılmasına karar verildi, uygun telifsiz müzikler seçilecek
+- Sahnelerde kullanılacak objelerin boyutlandırılması konusu önemli, bunun üzerine çalışmalar yapıldı.
 
 ---
 
