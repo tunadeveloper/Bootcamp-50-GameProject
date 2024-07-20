@@ -14,7 +14,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
-        UpdateAnimation();
+        
     }
 
     void Update()
