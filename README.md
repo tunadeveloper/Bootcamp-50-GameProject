@@ -152,3 +152,5 @@ Alınan kararlar:
 
 ---
 .
+![image](https://github.com/tunadeveloper/Bootcamp-50-GameProject/blob/main/Assets/2.png?raw=true)
+
