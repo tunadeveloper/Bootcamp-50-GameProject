@@ -151,4 +151,4 @@ Alınan kararlar:
 # Sprint 3
 
 ---
-[url=https://ibb.co/FYD3CZm][img]https://i.ibb.co/GM5pNYn/2.png[/img][/url]
+[![dRG3Lue.md.png](https://iili.io/dRG3Lue.md.png)](https://freeimage.host/i/dRG3Lue)
