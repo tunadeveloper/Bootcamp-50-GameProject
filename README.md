@@ -152,3 +152,5 @@ Alınan kararlar:
 
 ---
 [![dRG3Lue.md.png](https://iili.io/dRG3Lue.md.png)](https://freeimage.host/i/dRG3Lue)
+[![dRGF5oG.md.png](https://iili.io/dRGF5oG.md.png)](https://freeimage.host/i/dRGF5oG)
+[![dRGFAts.md.png](https://iili.io/dRGFAts.md.png)](https://freeimage.host/i/dRGFAts)
