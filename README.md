@@ -152,3 +152,5 @@ Alınan kararlar:
 
 ---
 .
+
+![image](https://ibb.co/FYD3CZm)
