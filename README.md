@@ -151,4 +151,6 @@ Alınan kararlar:
 # Sprint 3
 
 ---
-.
+![image](https://ibb.co/FYD3CZm)
+
+
